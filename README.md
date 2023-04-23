@@ -1,13 +1,19 @@
 # project_4w
-KOSA 2차 프로젝트 - 팀 4W
+KOSA 2차 프로젝트 - 4W
 
 ## 프로젝트 개요
 
 본 프로젝트는 한국소프트웨어산업협회(KOSA) JAVA 개발자 양성과정 2차(Web 기초) 프로젝트입니다. 
 
-+ 프로젝트 명 : 4W.IMAGE
++ 프로젝트 명 : 4W (Whatever you Want, Whenever you Want)
 
-+ 팀 명 : 4W (Whatever you Want, Whenever you Want)
++ 팀 명 : 4W.IMAGE
+
++ 프로젝트 소개 : 
+
+   4W는 언제든 원하는 이미지를 얻을 수 있는 웹 사이트 제작을 위한 프로젝트입니다.
+
+   소스코드는 MVC2 패턴으로 작성되었으며, UI 디자인은 Adobe, Pixabay를 참고하였습니다. 
 
 ## 기간
 
@@ -37,24 +43,6 @@ KOSA 2차 프로젝트 - 팀 4W
 
 + 적용 기술 : JSP 2.3, Apache Commons-dbcp2 2.9.0, HTML/CSS/JS, JQuery 3.6.3 
 
-## 디렉토리 구조
 
-+ C:
-
-  + joyous_labs
-  
-    + adoptjdk_8u352b08 : JDK bin 경로
-    
-    + apache-tomcat-9.0.71 : local tomcat 경로(개발 및 테스트용)
-    
-    + eclipse2022-12R : 이클립스 실행 파일 경로
-    
-    + maven_reposit : maven repository cache 경로
-    
-      + settings.xml : localRepository 경로 설정 파일
-    
-    + workspace_joyous : workspace 경로
-    
-      + festivalolle
   
   
